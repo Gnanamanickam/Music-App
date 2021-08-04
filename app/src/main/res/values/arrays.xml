@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="songName">
+        <item>Waka Waka</item>
+        <item>Shape of You</item>
+        <item>Taki Taki ft.</item>
+        <item>Sorry</item>
+        <item>No tears left to cry</item>
+        <item>Blank Space</item>
+        <item>Senorita</item>
+        <item>New Rules</item>
+        <item>Without Me</item>
+        <item>Diamonds</item>
+        <item>We Dont Talk Anymore</item>
+        <item>Dont Let Me Down</item>
+        <item>Faded</item>
+        <item>See You Again ft.</item>
+        <item>Let Her Go</item>
+        <item>All of Me</item>
+        <item>Sugar</item>
+        <item>Work from Home</item>
+        <item>Uptown Funk</item>
+        <item>Just The Way You Are</item>
+        <item>Sunflower</item>
+        <item>Alone</item>
+        <item>Lean On</item>
+        <item>Cheap Thrills</item>
+        <item>Rockabye</item>
+        <item>Cant stop the feeling</item>
+        <item>Happy</item>
+        <item>Cheerleader</item>
+        <item>Call Me Maybe</item>
+        <item>Roar</item>
+        <item>Lovely</item>
+        <item>Stressed Out</item>
+    </string-array>
+    <string-array name="songLink">
+        <item> https://www.youtube.com/watch?v=pRpeEdMmmQ0</item>
+        <item>https://www.youtube.com/watch?v=JGwWNGJdvx8</item>
+        <item>https://www.youtube.com/watch?v=ixkoVwKQaJg</item>
+        <item>https://www.youtube.com/watch?v=fRh_vgS2dFE</item>
+        <item>https://www.youtube.com/watch?v=ffxKSjUwKdU</item>
+        <item>https://www.youtube.com/watch?v=e-ORhEE9VVg</item>
+        <item>https://www.youtube.com/watch?v=Pkh8UtuejGw</item>
+        <item>https://www.youtube.com/watch?v=k2qgadSvNyU</item>
+        <item>https://www.youtube.com/watch?v=ZAfAud_M_mg</item>
+        <item>https://www.youtube.com/watch?v=lWA2pjMjpBs</item>
+        <item>https://www.youtube.com/watch?v=3AtDnEC4zak</item>
+        <item>https://www.youtube.com/watch?v=Io0fBr1XBUA</item>
+        <item>https://www.youtube.com/watch?v=60ItHLz5WEA</item>
+        <item>https://www.youtube.com/watch?v=RgKAFK5djSk</item>
+        <item>https://www.youtube.com/watch?v=RBumgq5yVrA</item>
+        <item>https://www.youtube.com/watch?v=450p7goxZqg</item>
+        <item>https://www.youtube.com/watch?v=09R8_2nJtjg</item>
+        <item>https://www.youtube.com/watch?v=5GL9JoH4Sws</item>
+        <item>https://www.youtube.com/watch?v=OPf0YbXqDm0</item>
+        <item>https://www.youtube.com/watch?v=LjhCEhWiKXk</item>
+        <item>https://www.youtube.com/watch?v=ApXoWvfEYVU</item>
+        <item>https://www.youtube.com/watch?v=ALZHF5UqnU4</item>
+        <item>https://www.youtube.com/watch?v=YqeW9_5kURI</item>
+        <item>https://www.youtube.com/watch?v=nYh-n7EOtMA</item>
+        <item>https://www.youtube.com/watch?v=papuvlVeZg8</item>
+        <item>https://www.youtube.com/watch?v=ru0K8uYEZWw</item>
+        <item>https://www.youtube.com/watch?v=ZbZSe6N_BXs</item>
+        <item>https://www.youtube.com/watch?v=jGflUbPQfW8</item>
+        <item>https://www.youtube.com/watch?v=fWNaR-rxAic</item>
+        <item>https://www.youtube.com/watch?v=CevxZvSJLk8</item>
+        <item>https://www.youtube.com/watch?v=V1Pl8CzNzCw</item>
+        <item>https://www.youtube.com/watch?v=pXRviuL6vMY</item>
+    </string-array>
+    <string-array name="singerName">
+        <item> Shakira</item>
+        <item>Ed Sheeran</item>
+        <item>DJ Snake</item>
+        <item>Justin Bieber</item>
+        <item>Ariana Grande</item>
+        <item>Taylor Swift</item>
+        <item>Shawn Mendes</item>
+        <item>Dua Lipa</item>
+        <item>Halsey</item>
+        <item>Rihanna</item>
+        <item>Charlie Puth</item>
+        <item>The Chainsmokers</item>
+        <item>Alan Walker</item>
+        <item>Wiz Khalifa</item>
+        <item>Passenger</item>
+        <item>John Legend</item>
+        <item>Maroon 5</item>
+        <item>Fifth Harmony</item>
+        <item>Mark Ranson</item>
+        <item>Bruno Mars</item>
+        <item>Post Malone</item>
+        <item>Marshmello</item>
+        <item>Major Lazer Official</item>
+        <item>Sia</item>
+        <item>Clean Bandit</item>
+        <item>Justin Timberlake</item>
+        <item>Pharrell Williams</item>
+        <item>Omi</item>
+        <item>Carly Rae Jepsen</item>
+        <item>Katy Perry</item>
+        <item>Billie Eilish</item>
+        <item>Fueled By Ramen</item>
+    </string-array>
+    <string-array name="SingerDetails" >
+    <item>https://en.wikipedia.org/wiki/Shakira</item>
+    <item>https://en.wikipedia.org/wiki/Ed_Sheeran</item>
+    <item>https://en.wikipedia.org/wiki/DJ_Snake</item>
+    <item>https://en.wikipedia.org/wiki/Justin_Bieber</item>
+    <item>https://en.wikipedia.org/wiki/Ariana_Grande</item>
+    <item>https://en.wikipedia.org/wiki/Taylor_Swift</item>
+    <item>https://en.wikipedia.org/wiki/Shawn_Mendes</item>
+    <item>https://en.wikipedia.org/wiki/Dua_Lipa</item>
+    <item>https://en.wikipedia.org/wiki/Halsey_(singer)</item>
+    <item>https://en.wikipedia.org/wiki/Rihanna</item>
+    <item>https://en.wikipedia.org/wiki/Charlie_Puth</item>
+    <item>https://en.wikipedia.org/wiki/The_Chainsmokers</item>
+    <item>https://en.wikipedia.org/wiki/Alan_Walker_(music_producer)</item>
+    <item>https://en.wikipedia.org/wiki/Wiz_Khalifa</item>
+    <item>https://en.wikipedia.org/wiki/Passenger_(singer)</item>
+    <item>https://en.wikipedia.org/wiki/John_Legend</item>
+    <item>https://en.wikipedia.org/wiki/Maroon_5</item>
+    <item>https://en.wikipedia.org/wiki/Fifth_Harmony</item>
+    <item>https://en.wikipedia.org/wiki/Mark_Ronson</item>
+    <item>https://en.wikipedia.org/wiki/Bruno_Mars</item>
+    <item>https://en.wikipedia.org/wiki/Post_Malone</item>
+    <item>https://en.wikipedia.org/wiki/Marshmello</item>
+    <item>https://en.wikipedia.org/wiki/Major_Lazer</item>
+    <item>https://en.wikipedia.org/wiki/Sia_(musician)</item>
+    <item>https://en.wikipedia.org/wiki/Clean_Bandit</item>
+    <item>https://en.wikipedia.org/wiki/Justin_Timberlake</item>
+    <item>https://en.wikipedia.org/wiki/Pharrell_Williams</item>
+    <item>https://en.wikipedia.org/wiki/Omi_(singer)</item>
+    <item>https://en.wikipedia.org/wiki/Carly_Rae_Jepsen</item>
+    <item>https://en.wikipedia.org/wiki/Katy_Perry</item>
+    <item>https://en.wikipedia.org/wiki/Billie_Eilish</item>
+    <item>https://en.wikipedia.org/wiki/Fueled_by_Ramen</item>
+</string-array>
+    <string-array name="SongDetails" >
+    <item>https://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa)</item>
+    <item>https://en.wikipedia.org/wiki/Shape_of_You</item>
+    <item>https://en.wikipedia.org/wiki/Taki_Taki_(song)</item>
+    <item>https://en.wikipedia.org/wiki/Sorry_(Justin_Bieber_song)</item>
+    <item>https://en.wikipedia.org/wiki/No_Tears_Left_to_Cry</item>
+    <item>https://en.wikipedia.org/wiki/Blank_Space</item>
+    <item>https://en.wikipedia.org/wiki/Se%C3%B1orita_(Shawn_Mendes_and_Camila_Cabello_song)</item>
+    <item>https://en.wikipedia.org/wiki/New_Rules</item>
+    <item>https://en.wikipedia.org/wiki/Without_Me_(Halsey_song)</item>
+    <item>https://en.wikipedia.org/wiki/Diamonds_(Rihanna_song)</item>
+    <item>https://en.wikipedia.org/wiki/We_Don%27t_Talk_Anymore_(Charlie_Puth_song)</item>
+    <item>https://en.wikipedia.org/wiki/Don%27t_Let_Me_Down_(The_Chainsmokers_song)</item>
+    <item>https://en.wikipedia.org/wiki/Faded_(Alan_Walker_song)</item>
+    <item>https://en.wikipedia.org/wiki/See_You_Again</item>
+    <item>https://en.wikipedia.org/wiki/Let_Her_Go</item>
+    <item>https://en.wikipedia.org/wiki/All_of_Me_(John_Legend_song)</item>
+    <item>https://en.wikipedia.org/wiki/Sugar_(Maroon_5_song)</item>
+    <item>https://en.wikipedia.org/wiki/Work_from_Home_(song)</item>
+    <item>https://en.wikipedia.org/wiki/Uptown_Funk</item>
+    <item>https://en.wikipedia.org/wiki/Just_the_Way_You_Are_(Bruno_Mars_song)</item>
+    <item>https://en.wikipedia.org/wiki/Sunflower_(Post_Malone_and_Swae_Lee_song)</item>
+    <item>https://en.wikipedia.org/wiki/Alone_(Marshmello_song)</item>
+    <item>https://en.wikipedia.org/wiki/Lean_On</item>
+    <item>https://en.wikipedia.org/wiki/Cheap_Thrills_(song)</item>
+    <item>https://en.wikipedia.org/wiki/Rockabye_(song)</item>
+    <item>https://en.wikipedia.org/wiki/Can%27t_Stop_the_Feeling!</item>
+    <item>https://en.wikipedia.org/wiki/Happy_(Pharrell_Williams_song)</item>
+    <item>https://en.wikipedia.org/wiki/Cheerleader_(song)</item>
+    <item>https://en.wikipedia.org/wiki/Call_Me_Maybe</item>
+    <item>https://en.wikipedia.org/wiki/Roar_(song)</item>
+    <item>https://en.wikipedia.org/wiki/Lovely_(Billie_Eilish_and_Khalid_song)</item>
+    <item>https://en.wikipedia.org/wiki/Stressed_Out</item>
+    </string-array>
+</resources>
